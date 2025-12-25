@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>https://imgur.com/a/4UPbtUQ</title>
+  <title>Image</title>
   <style>
     body {
       margin: 0;
@@ -19,6 +19,6 @@
   </style>
 </head>
 <body>
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE" alt="Image">
+  <img src="https://imgur.com/a/4ym6Zy2" alt="Image">
 </body>
 </html>
